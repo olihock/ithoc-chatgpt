@@ -1,0 +1,4 @@
+.venv/
+functions/.env
+.idea/
+*.iml
